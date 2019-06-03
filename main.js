@@ -1,5 +1,4 @@
 var _ = require('lodash');
-var Genetic = require('genetic-js')
 
 helpers = require('./helpers.js')
 
