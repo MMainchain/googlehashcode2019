@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "request": "2.88.0",
-    "lodash": "4.17.11"
+    "lodash": "4.17.15"
   }
 }
